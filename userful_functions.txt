@@ -1,0 +1,7 @@
+# to get account's informations, use:
+info = client.get_account()
+
+#to discover status of your account binance:
+status = client.get_account_status()
+
+
